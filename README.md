@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2,C66DD4&height=200&section=header&text=Hi%20there!%20I'm%20kropy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**LolDin-code/LolDin-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-kr_opy-7F00FF?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-kr.opy@example.com-9F00FF?style=flat-square&logo=gmail&logoColor=white">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
