@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2,C66DD4&height=200&section=header&text=Hi%20there!%20I'm%20kropy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2,C66DD4&height=200&section=header&text=아집가고싶다&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -9,8 +9,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-kr_opy-7F00FF?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Email-kr.opy@example.com-9F00FF?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-LolDin-7F00FF?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-kropy3@naver.com-9F00FF?style=flat-square&logo=gmail&logoColor=white">
 </p>
 
 
