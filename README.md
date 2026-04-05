@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-LolDin-7F00FF?style=flat-square&logo=github&logoColor=white"height=30>
+  <img src="https://img.shields.io/badge/GitHub-LolDin-7F00FF?style=flat-square&logo=github&logoColor=white"height=50>
   <img src="https://img.shields.io/badge/Email-kropy3@naver.com-9F00FF?style=flat-square&logo=gmail&logoColor=white">
 </p>
 
