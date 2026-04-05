@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-LolDin-7F00FF?for-the-badgestyle=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Email-kropy3@naver.com-9F00FF?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-kropy3@naver.com-9F00FF?for-the-badgestyle=flat-square&logo=gmail&logoColor=white">
 </p>
 
 
